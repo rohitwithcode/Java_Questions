@@ -17,7 +17,6 @@ public class Average_of_three_numbers {
         float third=scanner.nextFloat();
 
         float average=(first+second+third)/3;
-
         System.out.println("The average of "+first+","+second+" and "+third+" is "+average);
 
     }
