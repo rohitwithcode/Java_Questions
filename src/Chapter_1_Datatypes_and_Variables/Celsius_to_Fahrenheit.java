@@ -1,4 +1,4 @@
-package Chapter_1_Datatypes_and_Variables.I;
+package Chapter_1_Datatypes_and_Variables;
 
 import java.util.Scanner;
 
