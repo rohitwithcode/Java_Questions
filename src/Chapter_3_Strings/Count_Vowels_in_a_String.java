@@ -1,5 +1,8 @@
 package Chapter_3_Strings;
 
+/*
+    Develop a program to count  the number of vowels in a given string.
+ */
 import java.util.Scanner;
 
 public class Count_Vowels_in_a_String {
