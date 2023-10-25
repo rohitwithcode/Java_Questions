@@ -1,5 +1,8 @@
 package Chapter_3_Strings;
 
+/*
+    Swap the first and last characters of a string in Java.
+ */
 import java.util.Scanner;
 
 public class Swap_First_and_Last_character_of_a_String {
