@@ -1,6 +1,7 @@
 package Chapter_3_Strings;
-
-import java.awt.*;
+/*
+     Combine two or more strings into one in Java without using built-in string concatenation methods.
+ */
 import java.util.Scanner;
 
 public class Combine_two_string_without_concatenate_method {
