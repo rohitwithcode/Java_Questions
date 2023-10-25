@@ -12,10 +12,12 @@ public class Reverse_a_String {
         System.out.println("Enter your string : ");
         String user=scanner.nextLine();
 
+        // Create a StringBuilder to build the new string
         StringBuilder reversed=new StringBuilder(user);
 
         reversed.reverse();
 
+        // Convert the StringBuilder back to a string
         String reversedString=reversed.toString();
 
         System.out.println("Here is original string which entered by user : "+user);
