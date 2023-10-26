@@ -20,9 +20,11 @@ public class Question_2 {
 
         if (age>18 && hasLicense.equalsIgnoreCase("yes")){
             System.out.println("You are eligible to Drive...");
-        } else if (age<18 ) {
+        }
+        else if (age<18 ) {
             System.out.println("You are young to drive...");
-        } else if ( hasLicense.equalsIgnoreCase("NO")) {
+        }
+        else if ( hasLicense.equalsIgnoreCase("NO")) {
             System.out.println("You need a Driving license...");
         }
     }
