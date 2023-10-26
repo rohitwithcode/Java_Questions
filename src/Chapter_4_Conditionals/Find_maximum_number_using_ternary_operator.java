@@ -1,4 +1,7 @@
 package Chapter_4_Conditionals;
+/*
+    Develop a Java program that calculates and displays the maximum of two numbers using the ternary conditional operator.
+ */
 
 import java.util.Scanner;
 
