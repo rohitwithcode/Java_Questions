@@ -1,4 +1,8 @@
 package Chapter_4_Conditionals;
+/*
+    Write a Java program that checks if a given year is a leap year.
+    Use an if-else statement to display whether the year is a leap year or not.
+ */
 
 import java.util.Scanner;
 
