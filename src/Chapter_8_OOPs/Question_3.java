@@ -28,7 +28,7 @@ class BankAccount{
     public void withdrawBalance(){
         System.out.print("Enter the withdraw amount : ");
         double withdrawAmount=scanner.nextDouble();
-        if (accountBalance>=withdrawAmount){
+        if (accountBalance>=withdrawAmount && withdrawAmount>0){
             accountBalance=accountBalance-withdrawAmount;
         }
         else {
